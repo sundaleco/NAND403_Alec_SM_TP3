@@ -9,6 +9,8 @@ Développé avec **Python, PySide6 et maya.cmds**, cet outil permet de :
 - Configurer la durée de l'animation et l'intervalle entre les keyframes.
 - Créer des animations en boucle fluide (*seamless loop*).
 - Régénérer différentes variations d'animation.
-- Annuler les modifications avec CTRL+Z.
+- Annuler les modifications avec CTRL+Z. 
 
 Le projet est organisé en trois fichiers : main.p , ui.py et animator.py .
+
+Une vidéo démo est présente dans le repo. La fonctionnalité du ctrl-z est démontrer à la fin de celle-ci. 
