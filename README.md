@@ -13,4 +13,4 @@ Développé avec **Python, PySide6 et maya.cmds**, cet outil permet de :
 
 Le projet est organisé en trois fichiers : main.p , ui.py et animator.py .
 
-Une vidéo démo est présente dans le repo. La fonctionnalité du ctrl-z est démontrer à la fin de celle-ci. 
+Une vidéo démo est présente dans le repo. La fonctionnalité du ctrl-z est démontrée à la fin. 
