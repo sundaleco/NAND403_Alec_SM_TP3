@@ -90,4 +90,4 @@ def generate_animation(duration_value, step_value,
     finally:
         cmds.undoInfo(closeChunk=True) #ctrl z
 
-   
+# correction
