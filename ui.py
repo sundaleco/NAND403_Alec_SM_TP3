@@ -250,3 +250,4 @@ class ProgramUI(QWidget):
                 self.layout_main.addWidget(self.generate_button)
 
                 self.generate_button.clicked.connect(self.generate)
+# correction
